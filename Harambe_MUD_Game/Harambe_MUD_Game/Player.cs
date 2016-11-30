@@ -21,8 +21,8 @@ namespace Harambe_MUD_Game
         }
     }
 
-    public void addAge()
+    public void increaseAge()
     {
-
+        Console.ReadLine(something something movement) = w || a || s || d
     }
 }

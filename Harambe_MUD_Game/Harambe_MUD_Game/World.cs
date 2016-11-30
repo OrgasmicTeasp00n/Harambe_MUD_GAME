@@ -8,6 +8,6 @@ namespace Harambe_MUD_Game
 {
     class World
     {
-      //  public void handleMovement()
+        public void handleMovement()
     }
 }
