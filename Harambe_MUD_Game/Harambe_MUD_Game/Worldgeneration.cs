@@ -18,15 +18,15 @@ namespace Harambe_MUD_Game
             Room r4 = new Room("Mette's dungeon", "Sort rum med satanistiske symboler skrevet i blod med en masse i skrig i baggrunden");
             Room r5 = new Room("Tina's kontor", "Hyggeligt lille rum med en sød og kærlig ældre kvinde");
             Room r6 = new Room("Knud's loge", "Små håndlanger som siger øhh til du løber skrigende væk");
-            Room r7 = new Room("", "");
-            Room r8 = new Room("", "");
-            Room r9 = new Room("", "");
+            Room r7 = new Room("Jeppe's regnerum", "mystisk talrum med tal og brøker på alle vægge");
+            Room r8 = new Room("Bedstemors madstue", "gammel klam og lugtende stue med en masse fedende mad");
+            Room r9 = new Room("Laursen's kemilokale", "diamanter lavet af damptryk, med en masse malerier med vejen over stofmængde");
             Room r10 = new Room("Randers regnskov", "varm fugtig skov fyldt med mokaifugle.");
             Room r11 = new Room("Det hvide hus", "tilfædigt lille sommerhus i udkanten af regnskoven.");
             Room r12 = new Room("Det rigtige hvide hus", "stort hus hvor supreme leader of USA bor.");
-            Room r13 = new Room("", "");
-            Room r14 = new Room("", "");
-            Room r15 = new Room("", "");
+            Room r13 = new Room("Ahmed's drømmerum", "Drømmerummet med 69 våde jomfruer der fodrer dig med vindruer");
+            Room r14 = new Room("CIA's afhøringslokale", "Skræmmende afhøringslokale med en masse toturerings våben");
+            Room r15 = new Room("The faggot room", "Rummet med alle autister der suger på deres slush-ice til du besvimer");
             Room r16 = new Room("Sultan's helvede", "Standard rum hvor du skal finde alt selv via google");
             Room r17 = new Room("Gammelt slot", "stort slot fyldt med gamle ting.");
 
