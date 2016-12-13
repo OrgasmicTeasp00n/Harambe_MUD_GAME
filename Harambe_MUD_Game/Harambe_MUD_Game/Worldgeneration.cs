@@ -65,12 +65,17 @@ namespace Harambe_MUD_Game
             r13.AddNorth(r17);
         }
 
-        public void PrintWorld()
+        
+        List<Challenge> challenge;
+        public Challenge()
         {
-            foreach (Room r in rooms)
-            {
-                Console.WriteLine(r.ToString());
-            }
+            challenges = new List<Challenge>();
+            Challenge c1 = new Challenge("");
+            Challenge c2 = new Challenge("");
+            Challenge c3 = new Challenge("");
+            Challenge c4 = new Challenge("");
+            Challenge c5 = new Challenge("");
         }
+    }
     }
 }

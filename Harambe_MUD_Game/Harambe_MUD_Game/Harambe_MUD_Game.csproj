@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Answers.cs" />
-    <Compile Include="Challenges.cs" />
+    <Compile Include="Challenge.cs" />
     <Compile Include="Items.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
