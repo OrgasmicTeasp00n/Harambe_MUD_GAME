@@ -8,8 +8,7 @@ namespace Harambe_MUD_Game
 {
     class Items
     {
-        public string navn;
-        public int lvl;
+        
 
     }
 }

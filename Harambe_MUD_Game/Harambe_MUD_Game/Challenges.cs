@@ -9,7 +9,7 @@ namespace Harambe_MUD_Game
     public class Challenges
     {
         List<Challenge> challenge;
-        public World()
+        public Challenges()
         {
             challenge = new List<Challenge>();
             Challenge c1 = new Challenge("");
@@ -18,4 +18,5 @@ namespace Harambe_MUD_Game
             Challenge c4 = new Challenge("");
             Challenge c5 = new Challenge("");
         }
+    }
 }
