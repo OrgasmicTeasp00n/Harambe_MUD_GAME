@@ -12,7 +12,7 @@ namespace Harambe_MUD_Game
         public Worldgeneration()
         {
             rooms = new List<Room>();
-            Room r1 = new Room("Mors kælder", "hyggelig lille kælder hjemme ved mor.");
+            Room r1 = new Room("Mors kælder", "hyggelig lillekælder hjemme ved mor.");
             Room r2 = new Room("Storebrors musik garage", "Hyggelig jazz garage med en masse weed");
             Room r3 = new Room("Knuds varevogn", "Hvid varevogn med 'FREE CANDY' på siden");
             Room r4 = new Room("Mette's dungeon", "Sort rum med satanistiske symboler skrevet i blod med en masse i skrig i baggrunden");
