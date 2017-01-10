@@ -23,6 +23,13 @@ namespace Harambe_MUD_Game
 
     public void increaseAge()
     {
-        Console.ReadLine(something something movement) = w || a || s || d
+        if (Console.Readkey(movement) = w || a || s || d)
+        {
+            age += 1;
+        }
+        else
+        {
+
+        }
     }
 }
